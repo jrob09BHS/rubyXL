@@ -26,7 +26,6 @@ Gem::Specification.new do |s|
     "lib/rubyXL.rb",
     "lib/rubyXL/cell.rb",
     "lib/rubyXL/generic_storage.rb",
-    "lib/rubyXL/hash.rb",
     "lib/rubyXL/objects/border.rb",
     "lib/rubyXL/objects/color.rb",
     "lib/rubyXL/objects/column_range.rb",
@@ -34,7 +33,6 @@ Gem::Specification.new do |s|
     "lib/rubyXL/objects/fill.rb",
     "lib/rubyXL/objects/reference.rb",
     "lib/rubyXL/objects/sheet_view.rb",
-    "lib/rubyXL/objects/xml_helper.rb",
     "lib/rubyXL/parser.rb",
     "lib/rubyXL/private_class.rb",
     "lib/rubyXL/shared_strings.rb",
@@ -56,7 +54,6 @@ Gem::Specification.new do |s|
     "rubyXL.gemspec",
     "spec/lib/cell_spec.rb",
     "spec/lib/color_spec.rb",
-    "spec/lib/hash_spec.rb",
     "spec/lib/parser_spec.rb",
     "spec/lib/workbook_spec.rb",
     "spec/lib/worksheet_spec.rb"
